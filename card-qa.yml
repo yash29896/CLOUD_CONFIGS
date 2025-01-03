@@ -4,7 +4,7 @@ build:
 card:
   message: "Welcome to InnocentUdo's Card related QA APIs"
   contactDetails:
-    name: "Innocent Charles - QA Lead"
+    name: "Innocent Charles - QA1 Lead"
     email: "innocentcharlesudo@gmail.com"
   onCallSupport:
       -(+234)8163093928
